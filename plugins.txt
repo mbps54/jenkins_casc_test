@@ -1,0 +1,8 @@
+workflow-aggregator:596.v8c21c963d92d
+golang:1.4
+github:1.37.0
+ssh-agent:327.v230ecd01f86f
+ssh-slaves:2.877.v365f5eb_a_b_eec
+docker-workflow:563.vd5d2e5c4007f
+configuration-as-code:1569.vb_72405b_80249
+job-dsl:1.83

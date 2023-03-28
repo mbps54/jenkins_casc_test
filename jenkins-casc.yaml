@@ -1,0 +1,137 @@
+credentials:
+  system:
+    domainCredentials:
+    - credentials:
+      - usernamePassword:
+          id: "ubuntu"
+          password: "{AQAAABAAAAAQCUrdSK3k8loWXFOCT08ZhBuRfs9ynrxAgB1Wr/OXv2k=}"
+          scope: GLOBAL
+          username: "ubuntu"
+      - basicSSHUserPrivateKey:
+          id: "srv-creds"
+          privateKeySource:
+            directEntry:
+              privateKey: "{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}"
+          scope: GLOBAL
+          username: "ubuntu"
+jenkins:
+  agentProtocols:
+  - "JNLP4-connect"
+  - "Ping"
+  authorizationStrategy:
+    loggedInUsersCanDoAnything:
+      allowAnonymousRead: false
+  crumbIssuer:
+    standard:
+      excludeClientIPFromCrumb: false
+  disableRememberMe: false
+  disabledAdministrativeMonitors:
+  - "jenkins.diagnostics.ControllerExecutorsNoAgents"
+  - "hudson.diagnosis.ReverseProxySetupMonitor"
+  labelAtoms:
+  - name: "built-in"
+  - name: "node1"
+  - name: "unused"
+  labelString: "unused"
+  markupFormatter: "plainText"
+  mode: EXCLUSIVE
+  myViewsTabBar: "standard"
+  nodes:
+  - permanent:
+      labelString: "node1"
+      launcher:
+        ssh:
+          credentialsId: "srv-creds"
+          host: "10.0.1.103"
+          port: 22
+          sshHostKeyVerificationStrategy: "nonVerifyingKeyVerificationStrategy"
+      name: "node1"
+      remoteFS: "/home/ubuntu/jenkins_node"
+      retentionStrategy: "always"
+  numExecutors: 0
+  primaryView:
+    all:
+      name: "all"
+  projectNamingStrategy: "standard"
+  quietPeriod: 5
+  remotingSecurity:
+    enabled: true
+  scmCheckoutRetryCount: 0
+  securityRealm:
+    local:
+      allowsSignup: false
+      enableCaptcha: false
+      users:
+      - id: "admin"
+        password: ${JENKINS_ADMIN_PASSWORD}
+        name: "John Smith"
+        properties:
+        - "myView"
+        - "timezone"
+        - "experimentalFlags"
+        - "apiToken"
+        - "mailer"
+        - preferredProvider:
+            providerId: "default"
+  slaveAgentPort: 50000
+  updateCenter:
+    sites:
+    - id: "default"
+      url: "https://updates.jenkins.io/update-center.json"
+  views:
+  - all:
+      name: "all"
+  viewsTabBar: "standard"
+globalCredentialsConfiguration:
+  configuration:
+    providerFilter: "none"
+    typeFilter: "none"
+security:
+  apiToken:
+    creationOfLegacyTokenEnabled: false
+    tokenGenerationOnCreationEnabled: false
+    usageStatisticsEnabled: true
+  gitHooks:
+    allowedOnAgents: false
+    allowedOnController: false
+  gitHostKeyVerificationConfiguration:
+    sshHostKeyVerificationStrategy: "knownHostsFileVerificationStrategy"
+  sSHD:
+    port: -1
+unclassified:
+  buildDiscarders:
+    configuredBuildDiscarders:
+    - "jobBuildDiscarder"
+  fingerprints:
+    fingerprintCleanupDisabled: false
+    storage: "file"
+  gitHubPluginConfig:
+    hookUrl: "http://elb1-1659833598.eu-central-1.elb.amazonaws.com/github-webhook/"
+  location:
+    adminAddress: "address not configured yet <nobody@nowhere>"
+    url: "http://elb1-1659833598.eu-central-1.elb.amazonaws.com/"
+  mailer:
+    charset: "UTF-8"
+    useSsl: false
+    useTls: false
+  pollSCM:
+    pollingThreadCount: 10
+  scmGit:
+    addGitTagAction: false
+    allowSecondFetch: false
+    createAccountBasedOnEmail: false
+    disableGitToolChooser: false
+    hideCredentials: false
+    showEntireCommitSummaryInChanges: false
+    useExistingAccountWithSameEmail: false
+tool:
+  git:
+    installations:
+    - home: "git"
+      name: "Default"
+  mavenGlobalConfig:
+    globalSettingsProvider: "standard"
+    settingsProvider: "standard"
+
+jobs:
+  - file: /usr/local/seedjob.groovy
