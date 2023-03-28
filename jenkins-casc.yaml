@@ -63,7 +63,7 @@ jenkins:
       enableCaptcha: false
       users:
       - id: "admin"
-        password: password
+        password: "password"
         name: "John Smith"
         properties:
         - "myView"
