@@ -1,5 +1,4 @@
 workflow-aggregator:596.v8c21c963d92d
-blueocean:1.27.3
 golang:1.4
 github:1.37.0
 ssh-agent:327.v230ecd01f86f
