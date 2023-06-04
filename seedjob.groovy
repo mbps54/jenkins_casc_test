@@ -21,4 +21,4 @@ def create_pipeline(String name, String gitUrl) {
     }
 }
 
-create_pipeline('pipeline_lesson10', 'https://github.com/mbps54/web_app.git')
+create_pipeline('pipeline_lesson9', 'https://github.com/mbps54/web_app.git')
