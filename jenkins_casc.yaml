@@ -130,3 +130,5 @@ tool:
   mavenGlobalConfig:
     globalSettingsProvider: "standard"
     settingsProvider: "standard"
+jobs:
+- file: /usr/local/seedjob.groovy
