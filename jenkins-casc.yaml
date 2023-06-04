@@ -2,16 +2,11 @@ credentials:
   system:
     domainCredentials:
     - credentials:
-      - usernamePassword:
-          id: "ubuntu"
-          password: "{AQAAABAAAAAQCUrdSK3k8loWXFOCT08ZhBuRfs9ynrxAgB1Wr/OXv2k=}"
-          scope: GLOBAL
-          username: "ubuntu"
       - basicSSHUserPrivateKey:
-          id: "srv-creds"
+          id: "ubuntu-creds"
           privateKeySource:
             directEntry:
-              privateKey: "{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}"
+              privateKey: "{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}"
           scope: GLOBAL
           username: "ubuntu"
 jenkins:
@@ -30,9 +25,9 @@ jenkins:
   - "hudson.diagnosis.ReverseProxySetupMonitor"
   labelAtoms:
   - name: "built-in"
+  - name: "controller"
   - name: "node1"
-  - name: "unused"
-  labelString: "unused"
+  labelString: "controller"
   markupFormatter: "plainText"
   mode: EXCLUSIVE
   myViewsTabBar: "standard"
@@ -41,11 +36,12 @@ jenkins:
       labelString: "node1"
       launcher:
         ssh:
-          credentialsId: "srv-creds"
-          host: "10.0.1.103"
+          credentialsId: "ubuntu-creds"
+          host: "10.0.1.178"
           port: 22
           sshHostKeyVerificationStrategy: "nonVerifyingKeyVerificationStrategy"
       name: "node1"
+      numExecutors: 5
       remoteFS: "/home/ubuntu/jenkins_node"
       retentionStrategy: "always"
   numExecutors: 0
@@ -62,9 +58,9 @@ jenkins:
       allowsSignup: false
       enableCaptcha: false
       users:
-      - id: "admin"
-        password: "password"
-        name: "John Smith"
+      - id: "artem"
+        password: ${JENKINS_ADMIN_PASSWORD}
+        name: "Artem Utkin"
         properties:
         - "myView"
         - "timezone"
@@ -96,6 +92,8 @@ security:
     allowedOnController: false
   gitHostKeyVerificationConfiguration:
     sshHostKeyVerificationStrategy: "knownHostsFileVerificationStrategy"
+  globalJobDslSecurityConfiguration:
+    useScriptSecurity: true
   sSHD:
     port: -1
 unclassified:
@@ -106,10 +104,10 @@ unclassified:
     fingerprintCleanupDisabled: false
     storage: "file"
   gitHubPluginConfig:
-    hookUrl: "http://elb1-1659833598.eu-central-1.elb.amazonaws.com/github-webhook/"
+    hookUrl: "http://35.158.123.225:8080/github-webhook/"
   location:
     adminAddress: "address not configured yet <nobody@nowhere>"
-    url: "http://elb1-1659833598.eu-central-1.elb.amazonaws.com/"
+    url: "http://35.158.123.225:8080/"
   mailer:
     charset: "UTF-8"
     useSsl: false
@@ -132,6 +130,3 @@ tool:
   mavenGlobalConfig:
     globalSettingsProvider: "standard"
     settingsProvider: "standard"
-
-jobs:
-  - file: /usr/local/seedjob.groovy
